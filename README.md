@@ -1,5 +1,6 @@
 # Krakenangular
-
+##  Video Youtube
+https://www.youtube.com/watch?v=3XpwJsgBNDs
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
