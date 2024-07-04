@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 100vh;
+    margin: 0;
+    background-color: #FFFF;
+    position: relative;
+}
+
+.container {
+    text-align: left;
+}
+
+.images {
+    display: flex;
+    align-items: left; /* Alinea verticalmente */
+    margin-top: -2670Px;
+    margin-left: 410px;
+}
+
+.image {
+    width: 100px;
+    height: 30px;
+    margin-top: -50px;
+    margin-left: 10px; /* Espacio entre la imagen y el texto */
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+.text-part {
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 20px; /* Espacio entre la imagen y el texto */
+    margin-top: 10px;
+}
